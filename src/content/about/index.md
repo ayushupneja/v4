@@ -2,18 +2,19 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Python
+  - C++
+  - SQL
+  - JavaScript
+  - HTML & CSS
+  - Bootstrap
   - React
-  - Vue
+  - Flask
   - Node.js
-  - Express
-  - GraphQL
-  - NativeScript
+  - Django
 ---
+Hi! I'm Ayush, a Computer Engineering student at Boston University who enjoys competing at hackathons and buying cool tech. I've explored many different passions of mine in college including competitive dance, parliamentary debate, student government, and low-level research. I'm currently working on a software startup with several friends to be launched in the coming months.
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I was born and brought up in State College, Pennsylvania until high school. In the ninth grade I moved to Newton, MA, where I completed my K-12 education at Newton South High School. Now, I attend Boston University and hope to end up either in San Francisco, CA or New York, NY after graduating.
 
 Here are a few technologies I've been working with recently:

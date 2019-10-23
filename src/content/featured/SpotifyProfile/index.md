@@ -1,15 +1,22 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'FinLit'
+cover: './finlit3.png'
+github: 'https://github.com/StardustStartup/FinLit'
+external: 'http://167.99.156.209:8000/finlit.html'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - JQuery
+  - Leaflet.js
+  - Django
+  - BigQuery
+  - SqlLite
+  - PostgreSQl
+  - Bootstrap
+  - Colab
 show: 'true'
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web app to help banks maximize impact of financial literacy workshops through machine learning and parametrization of many historical datasets.
+
+
+Best Financial Hack | Best Connecting the Dots Theme Hack | Best Use of Google Cloud Platform (3rd) @ HackHarvard 2019

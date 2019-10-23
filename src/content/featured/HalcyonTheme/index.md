@@ -1,16 +1,22 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Sonos Flow'
+cover: './flow.jpg'
+github: 'https://github.com/ayushupneja/sonos-flow-player'
+external: 'https://sonos-flow-player.herokuapp.com'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+
+ - Flutter        
+ - Sonos API
+ - Javascript
+ - HTML & CSS
+ - jQuery
 show: 'true'
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Mobile application for any Sonos sound system that utilizes bluetooth RSSI to change speakers as you change rooms.
+
+
+Won first place in Sonos Challenge Boston 2019.
+
+Video available [here!](https://youtu.be/McMgHN7kHyM)

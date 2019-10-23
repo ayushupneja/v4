@@ -1,38 +1,30 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Ayush Upneja | Computer Engineering Student',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Ayush is a Junior at Boston University, majoring in Computer Engineering and minoring in Mathematical Statistics.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Ayush Upneja, Ayush, Upneja, ayushupneja, software engineer, front-end engineer, web developer, javascript, Boston University',
+  siteUrl: 'https://upneja.me',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
+//  googleAnalyticsID: 'UA-45666519-2',
+//  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  name: 'Ayush Upneja',
   location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  email: 'upneja@bu.edu',
+  github: 'https://github.com/ayushupneja',
+  twitterHandle: '@desidebater007',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/ayushupneja',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.linkedin.com/in/ayush-upneja',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/desidebater007',
     },
   ],
 

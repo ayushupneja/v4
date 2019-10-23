@@ -1,14 +1,23 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Bikeable'
+cover: './bikeable5.png'
+github: 'https://github.com/ayushupneja/bikeable'
+external: 'http://bikeable.tech'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  -
+  - Here API
+  - Leaflet.js
+  - Flask
+  - Jquery
+  - Bootstrap
+  - BigQuery
+  - App Engine
+  - Firebase
 show: 'true'
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Bikeable is a Boston directions app for bicyclists that uses machine learning to generate safe directions for users based on prior bike accidents in police reports. You simply enter your origin and destination, and Bikeable creates a path for you to follow that balances efficiency with safety.
+
+
+Best Data Usability Hack @ PennApps XX
