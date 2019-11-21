@@ -110,7 +110,6 @@ const Layout = ({ children, location }) => {
               <Social />
               <Email />
               {children}
-              <Footer githubInfo={githubInfo} />
             </div>
           )}
         </div>
