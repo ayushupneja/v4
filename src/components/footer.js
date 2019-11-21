@@ -79,19 +79,6 @@ const Footer = ({ githubInfo }) => (
                 target="_blank"
                 rel="nofollow noopener noreferrer"
                 aria-label={name}>
-                {name === 'Github' ? (
-                  <IconGithub />
-                ) : name === 'Linkedin' ? (
-                  <IconLinkedin />
-                ) : name === 'Codepen' ? (
-                  <IconCodepen />
-                ) : name === 'Instagram' ? (
-                  <IconInstagram />
-                ) : name === 'Twitter' ? (
-                  <IconTwitter />
-                ) : (
-                  <IconGithub />
-                )}
               </SocialLink>
             </li>
           ))}
